@@ -5,12 +5,6 @@ O objetivo é apresentar informações sobre mim (Sthefany Luizy), meus projetos
 
 ---
 
-## 📸 Demonstração
-![Prévia do site](./preview.png)  
-> (Adicione uma imagem de prévia do site aqui, caso deseje)
-
----
-
 ## 🧠 Tecnologias Utilizadas
 - **HTML5** – estrutura do site  
 - **CSS3** – estilização e responsividade  
